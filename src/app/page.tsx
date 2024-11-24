@@ -137,7 +137,7 @@ export default function Dashboard() {
 					Suportfix
 				</Link>
 				<Link
-					href='/login'
+					href='/'
 					className='bg-blue-500 px-4 py-3 rounded-md text-blue-50'
 				>
 					SUPPORT CENTER
